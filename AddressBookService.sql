@@ -9,5 +9,5 @@ City varchar(50),
 State varchar(50), 
 Zip int, 
 Phonenumber int,
-Email varchar(100)
+Email varchar(150)
 )
